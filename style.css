@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #F5F1E8;
+  color: #2E2E2E;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: white;
+}
+
+.navbar a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.hero {
+  padding: 80px;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+button {
+  background: #A3B18A;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 10px;
+}
