@@ -38,3 +38,7 @@ button {
   color: white;
   border-radius: 10px;
 }
+.logo img {
+    height: 70px;
+    width: auto;
+}
